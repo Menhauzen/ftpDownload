@@ -1,0 +1,5 @@
+#Игнор файлов
+/targer
+*.ini
+*.class
+*.idea
